@@ -2,7 +2,7 @@ const axios = require('axios');
 
 const port = 4000;
 
-const url = 'http://localhost:' + port;
+const url = 'https://mytinerary-chantal.herokuapp.com/';
 
 function fetchCities() {
     return axios.get(url + '/api/cities');

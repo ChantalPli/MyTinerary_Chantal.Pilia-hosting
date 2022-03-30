@@ -5,7 +5,7 @@ const passport = require('../config/passport')
 const cityController = require('../controllers/cityController');
 const itineraryController = require('../controllers/itineraryController');
 const activityController = require('../controllers/activityController');
-const userControllers = require('../controllers/userControllers');
+const userControllers = require('../controllers/UserControllers');
 const commentControllers = require('../controllers/commentControllers');
 
 const {

@@ -1,10 +1,11 @@
+require('dotenv').config();
+require('./config/database');
 const express = require('express');
 const cors = require('cors');
 const routes = require('./routes/routes');
 const passport = require('passport');
 
-require('dotenv').config();
-require('./config/database');
+
 
 const cities = require('./cities.json');
 

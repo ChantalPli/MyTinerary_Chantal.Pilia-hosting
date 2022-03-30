@@ -16,11 +16,7 @@ const path = require('path');
 
 
 app.use(cors({
-    "origin": "*",
-    "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
-    "preflightContinue": false,
-    "optionsSuccessStatus": 204,
-    "allowedHeaders": ["Content-Type"]
+    origin: 'https://mytinerary-chantal.herokuapp.com'
 }));
 
 app.use(express.json()); //para recibir la solicitud en formato json !!!!!!

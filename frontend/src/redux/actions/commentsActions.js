@@ -10,7 +10,7 @@ const commentsActions = {
 
         const token = localStorage.getItem('token')
         return async (dispatch, getState) => {
-            const res = await axios.post('https://mytinerary-chantal.herokuapp.com/api/places/comment', { comment }, {
+            const res = await axios.post('https://mytinerary-pilia.herokuapp.com/api/places/comment', { comment }, {
                 headers: {
                     'Authorization': `Bearer ${token}`
                 }
@@ -30,7 +30,7 @@ const commentsActions = {
 
         const token = localStorage.getItem('token')
         return async (dispatch, getState) => {
-            const res = await axios.put('https://mytinerary-chantal.herokuapp.com/places/comment', { comment }, {
+            const res = await axios.put('https://mytinerary-pilia.herokuapp.com/places/comment', { comment }, {
                 headers: {
                     'Authorization': `Bearer ${token}`
                 }
@@ -51,7 +51,7 @@ const commentsActions = {
 
         const token = localStorage.getItem('token')
         return async (dispatch, getState) => {
-            const res = await axios.post(`https://mytinerary-chantal.herokuapp.com/api/places/comment/${id}`, {}, {
+            const res = await axios.post(`https://mytinerary-pilia.herokuapp.com/api/places/comment/${id}`, {}, {
                 headers: {
                     'Authorization': `Bearer ${token}`
                 }

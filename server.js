@@ -19,9 +19,9 @@ const path = require('path');
 
 //app.use(cors())
 
-app.use(cors({
-    origin: 'https://mytinerary-chantal.herokuapp.com'
-}));
+// app.use(cors({
+//     origin: 'https://mytinerary-pilia.herokuapp.com'
+// }));
 
 
 

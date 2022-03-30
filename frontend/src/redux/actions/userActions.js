@@ -9,7 +9,7 @@ const userActions = {
     signUpUser: (userData) => {
         return async (dispatch, getstate) => {
 
-            const res = await axios.post('https://mytinerary-chantal.herokuapp.com/api/auth/signup', { userData })
+            const res = await axios.post('https://mytinerary-pilia.herokuapp.com/api/auth/signup', { userData })
 
             dispatch({
                 type: 'message',
@@ -65,7 +65,7 @@ const userActions = {
     VerificarToken: (token) => {
         return async (dispatch, getState) => {
             console.log(token)
-            const user = await axios.get('https://mytinerary-chantal.herokuapp.com/api/auth/signInToken', {
+            const user = await axios.get('https://mytinerary-pilia.herokuapp.com/api/auth/signInToken', {
                 headers: {
                     'Authorization': 'Bearer ' + token
                 }

@@ -2,7 +2,7 @@ const User = require('../models/User')
 const bcryptjs = require('bcryptjs')
 const crypto = require('crypto')        //NPM CRYPTO
 const nodemailer = require('nodemailer') //NPM NODEMAILER
-const jwt = require('jsonwebtoken')
+const jwt = require('jsonwebtoken');
 
 // C!h#A$n%T&a/L(p)I=l?I*a
 

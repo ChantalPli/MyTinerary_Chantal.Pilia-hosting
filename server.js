@@ -15,8 +15,9 @@ const app = express();
 const path = require('path');
 
 
-//app.use(cors())
+app.UseCors("AllowOrigin");
 
+// app.use(cors())
 
 // app.use(cors({
 //     origin: 'https://mytinerary-chantal.herokuapp.com'

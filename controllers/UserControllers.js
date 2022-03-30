@@ -54,7 +54,7 @@ const usersControllers = {
         //console.log(user) //BUSCA AL USUARIO CORRESPONDIENTE AL LINK
         if (user) {
             user.emailVerified = true //COLOCA EL CAMPO emailVerified en true
-            await user.save()
+            await user.save();
             res.redirect("https://mytinerary-chantal.herokuapp.com") //REDIRECCIONA AL USUARIO A UNA RUTA DEFINIDA
             //return  res.json({success:true, response:"Su email se ha verificado correctamente"})
         }

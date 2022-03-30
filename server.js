@@ -16,7 +16,7 @@ const path = require('path');
 
 
 app.use(cors({
-    origin: '*'
+    origin: 'https://mytinerary-chantal.herokuapp.com'
 }));
 
 app.use(express.json()); //para recibir la solicitud en formato json !!!!!!

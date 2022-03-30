@@ -1,0 +1,15 @@
+.hero-image {
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    place-items: center center;
+    place-content: center center;
+    text-align: center;
+    font-size: 2.5rem;
+    
+
+}

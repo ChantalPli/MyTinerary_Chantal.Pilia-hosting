@@ -1,0 +1,19 @@
+.cards-of-cities{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+    margin: 16px;
+   
+}
+
+.lampara {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.message {
+    text-align: center;
+    line-height: 40vh;
+}

@@ -1,0 +1,9 @@
+.card_under {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    margin: auto;
+    margin-top: 5em;
+   
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Perugia",
+    "description": "With its Etruscan walls, a gorgeous Medieval center, Perugia is not only a city for the gluttonous, but for artists and art lovers alike. Perugia is cosmopolitan and unforgettable, and is also the largest walled medieval city in Italy. It’s  a great home base for exploring Umbria and southern Tuscany.",
+    "image": "/images/perugia1.jpg"
+  },
+  {
+    "name": "Cagliari",
+    "description": "Built on seven hills like Rome, Cagliari offers the visitor the charm of a thousand-year-old history, the relaxation of a city beach among the most expansive in all of Europe. Charming, elegant, and rising from the sea like a wave of colorful facades, Cagliari is the capital of Sardinia and a stunning city infused with ancient history,",
+    "image": "/images/cagliari2.jpg"
+  },
+  {
+    "name": "Siena",
+    "description": "Siena is likely Italy's loveliest medieval city, and a trip worth making even if you are in Tuscany for just a few days.It's  one of Italy's best preserved medieval towns, located in the heart of Tuscany.Piazza del Campo is the central meeting point of Siena, from which you can easily reach landmarks such as the Siena Cathedral. ",
+    "image": "/images/siena1.jpg"
+  },
+  {
+    "name": "Roma",
+    "description": "Rome is one of the world’s great cities, and has been for more than two thousand years.It is simultaneously fabulous and frustrating, a busy city that doesn’t dwell in its past but incorporates its history into a very modern existence. There is no city on earth quite like Rome, for better and for worse.",
+    "image": "/images/roma1.jpg"
+  },
+  {
+    "name": "Palermo",
+    "description": " Palermo boasts a complex historic legacy and a rich heritage of treasures: some of which are evident at first sight, others are more hidden.On Palermo and its inhabitants you will find a very rich production of literature, essay writing and cinematography, often however, superficial and neglectful of finer details",
+    "image": "/images/palermo1.jpg"
+  },
+  {
+    "name": "Torino",
+    "description": "One of Italy's renowned cities, Torino is more than the home of the Shroud of Turin; it is also a city of palaces and elegant architecture. It was Italy's first capital city as a unified nation, before the national headquarters moved to Rome. ",
+    "image": "/images/torino.jpg"
+  },
+  {
+    "name": "Alberobello",
+    "description": "Alberobello is a small Italian town like any other at a first glance. The streets are narrow and hilly, houses are white, the weather is pleasant and life is slow.The small town has been made a UNESCO World Heritage site for its unusual districts of trulli, the characteristic white-washed conical-roofed houses of the area",
+    "image": "/images/alberobello.jpg"
+  },
+  {
+    "name": "Napoli",
+    "description": "Naples is one of the largest and most captivating art cities on the Mediterranean Sea. Capital of the Region of Campania, it is the third-largest commune in Italy after Rome and Milan. ",
+    "image": "/images/napoli1.jpg"
+  },
+  {
+    "name": "Venezia",
+    "description": "Elegant, inimitable, exciting and romantic, precious: this is Venice, the gem on any tour of Italy where churches, palazzi, ancient bridges, monuments and piazzas confirm its artistic and cultural vitality. ",
+    "image": "/images/venezia1.jpg"
+  },
+  {
+    "name": "Matera",
+    "description": "Touring Matera is like experiencing a forgotten past - you feel as though you are setting foot in a nativity scene when you visit this charming city in Lucania.We think of Rome, at 3,000 years old, as ancient, but it looks newly incorporated compared with Matera, which is 5,000 years older.",
+    "image": "/images/matera.jpg"
+  },
+  {
+    "name": "Verona",
+    "description": " With 2,000 years of history, Verona is a city of a completely harmonious integration of the finest of artistic elements from several diverse historical epochs.site of a completely harmonious integration of the finest of artistic elements from several diverse historical epochs.   ",
+    "image": "/images/verona.jpg"
+  },
+  {
+    "name": "Bergamo",
+    "description": "Bergamo is the hidden gem of Lombardy, an Italian destination often missed or forgotten in favour of its more famous neighbour, the design capital and fashion city of Milan. But if you do choose to head to Bergamo, then make sure to wander its cobbled lanes and soak up its historic atmosphere. ",
+    "image": "/images/bergamo.jpg"
+  },
+  {
+    "name": "Capri",
+    "description": "Capri town is the most busy and touristy part of the island - this is the Capri of daytrippers and designer-shopping celebrities; the Mediterranean at its most chic.It has jaw-dropping natural beauty, delicious cuisine and world-class shopping.",
+    "image": "/images/capri.jpg"
+  },
+  {
+    "name": "Bolzano",
+    "description": "Bolzano, the Gate to the Dolomites and Alpine Town of the Year 2009, at the meeting point between the Italian and the German culture, is located in a protected valley basin amidst hilly vineyards.",
+    "image": "/images/bolzano.jpg"
+  },
+  {
+    "name": "Bologna",
+    "image": "/images/bologna.jpg",
+    "description": "urope’s oldest university town (it was founded in 1088) has been a haven for intellectuals and creative types since luminaries such as Dante and Petrarch passed through in the 14th century. "
+  }
+]

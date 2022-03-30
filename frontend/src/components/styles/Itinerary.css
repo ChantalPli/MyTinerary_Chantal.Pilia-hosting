@@ -1,0 +1,16 @@
+.itinerary {
+    display: flex;
+    flex-direction: column;
+   margin: auto;
+   margin-top: 5em;
+  
+
+}
+.details {
+    margin-top: 8px;
+}
+
+.details a {
+    color: #333;
+    margin-left: 8px;
+}

@@ -20,7 +20,8 @@ const path = require('path');
 // app.use(cors())
 
 app.use(cors({
-    origin: 'http://localhost:19006,https://mytinerary-pilia.herokuapp.com/'
+    "origin": "*",
+    "methods": "GET,HEAD,PUT,PATCH,POST,DELETE"
 }));
 
 
